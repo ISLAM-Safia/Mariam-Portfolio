@@ -1235,6 +1235,7 @@ textarea.input {
         transform: translateX(0);
     }
 
+
     .nav__logo ,
     .btn__share {
         display: none;
@@ -1357,6 +1358,12 @@ textarea.input {
     .about__img {
         width: 250px;
     }
+
+    .nav__toggle {
+        right: initial;
+        left: 1.5rem;
+    }
+
 
     .qualification__container {
         grid-template-columns: 290px;
